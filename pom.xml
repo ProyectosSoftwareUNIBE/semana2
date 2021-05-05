@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>cedula</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>examen</name>
     <description>codigo para validar cedula ecuatoriana</description>
     <packaging>jar</packaging>
