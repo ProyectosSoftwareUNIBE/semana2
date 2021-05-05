@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>codigo-base</artifactId>
+    <artifactId>cedula</artifactId>
     <version>1.0-SNAPSHOT</version>
     <name>examen</name>
-    <description>codigo base</description>
+    <description>codigo para validar cedula ecuatoriana</description>
     <packaging>jar</packaging>
 
     <properties>
